@@ -12,10 +12,13 @@ Can we distinguish three different iris flower species using their sepal and pet
 
 ### Visualization Results & Explanation
 
-> This scatter plot shows the relationship between sepal length and petal length for three iris species. Setosa is clearly separated from the other two species.https://raw.githubusercontent.com/Dong-123-12/data-science-project/main/scatter_plot.png
+> This scatter plot shows the relationship between sepal length and petal length for three iris species. Setosa is clearly separated from the other two species.
+![Scatter Plot](https://raw.githubusercontent.com/Dong-123-12/data-science-project/main/scatter_plot.png)
 
 
-> This boxplot compares petal length distribution across three species. It demonstrates that setosa has the smallest petal length, while virginica has the largest.https://raw.githubusercontent.com/Dong-123-12/data-science-project/main/boxplot.png
+> This boxplot compares petal length distribution across three species. It demonstrates that setosa has the smallest petal length, while virginica has the largest.
+![boxplot](https://raw.githubusercontent.com/Dong-123-12/data-science-project/main/boxplot.png)
+
 
 ### Project Repository Link
  https://github.com/Dong-123-12/data-science-project
